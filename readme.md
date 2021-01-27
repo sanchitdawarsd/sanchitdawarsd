@@ -1,6 +1,6 @@
 ## Hey Everyone 👋, I'm Sanchit, a Freelance Full Stack Blockchain Developer ##
-<p><a href="https://github.com/sanchitdawarsd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/samarth95200474" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/samarth30" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" /></a>
-<a href="https://www.instagram.com/samarth0x" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
+<p><a href="https://github.com/sanchitdawarsd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/sanchitdawar3" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sanchitdawarsd" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/sanchitdawar_sd" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
 </p>
 
 ### Skills ###
@@ -27,7 +27,7 @@
 
 ### Github Readme Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
-<a href="https://profile-summary-for-github.com/user/samarth30">
+<a href="https://profile-summary-for-github.com/user/sanchitdawarsd">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sanchitdawarsd&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Sanchit's Github Account"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitdawarsd&hide_langs_below=5&layout=compact" alt="samarth's language stats"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitdawarsd&hide_langs_below=5&layout=compact" alt="sanchit's language stats"/>
 </a>
