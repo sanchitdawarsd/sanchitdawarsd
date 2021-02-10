@@ -5,7 +5,7 @@
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **Solidity,JavaScript & HTML,CSS**
+- Languages - **Java,Solidity,JavaScript & HTML,CSS**
 - Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
 - Databases: - **MySQL and MongoDB**
 - Tools: - **Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
